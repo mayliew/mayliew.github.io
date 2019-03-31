@@ -6,7 +6,7 @@ const apiKey = "76ZLjM0qr7TbiEjC6GA9dNfh1jTvq48FjEITlUSMcsg96xKvP8";
 let winState = document.getElementById('win-state')
 let resetButton = document.getElementById("resetButton")
 
-let tagName = ['Building','Bird','Cash','Flower'];
+let tagName = ['Building','Bird','Whale','Flower'];
 
 
 // restart fuction start
